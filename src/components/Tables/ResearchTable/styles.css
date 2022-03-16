@@ -1,0 +1,53 @@
+.ant-table-thead tr th {
+  padding: 8px !important;
+  background: var(--light-primary-color) !important;  
+  color: #ffffff !important;
+}
+
+.ant-table-tbody tr td {
+  padding: 12px;
+  color: var(--light-primary-color);
+}
+.ant-table table {
+  text-align: center;
+}
+#stockDetails {
+  font-size: 12px;
+  background: var(--light-primary-color);
+  color: #ffffff;
+  padding: 6px;
+}
+#editResearh {
+  font-size: 12px;
+  background: #6D3B9E;
+  color: #ffffff;
+  margin-left: 8px;
+  padding: 6px 16px;
+}
+.ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background-color: #6D3B9E!important;
+}
+.ant-table-row-expand-icon {
+  position: absolute;
+}
+
+.ant-table-expanded-row.ant-table-expanded-row-level-1 td {
+  padding: 0;
+}
+.editable-row .ant-form-item-explain {
+  position: absolute;
+  top: 100%;
+  font-size: 12px;
+}
+.ant-table .ant-table-bordered{
+  margin: 0 !important;
+}
+table table thead tr th {
+  border-right: 0 !important;
+}
+table table tbody tr td {
+  background: #d6d6d6;
+  padding: 4px !important;
+}
+/* 
+498ACA  */

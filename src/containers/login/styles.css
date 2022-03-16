@@ -1,0 +1,30 @@
+.form-control{
+ 
+    width: 100%;
+
+}
+.MuiCardActions-root {
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper {
+    text-align: center;
+    margin-bottom:5%;
+}
+button, html [type="reset"], [type="submit"] {
+    -webkit-appearance: button;
+    width: 97%;
+    margin-top: 15%;
+    text-align:center;
+    background: white;
+    border: #40a9ff 2px solid;
+    color: #40a9ff;
+    margin-top: 10%;
+    margin-bottom: 2%;
+    border-radius: 3px;
+    width: 96%;
+    height: 33px;
+    cursor:pointer;
+}

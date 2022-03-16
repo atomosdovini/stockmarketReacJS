@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;900&display=swap');
+
+:root {
+    /* Set the deafult values */
+    --selected-primary-color: var(--light-primary-color);
+    --selected-disabled-color: var(--light-disabled-color);
+    
+    /* Set the 'light' theme */
+    --light-primary-color: #462666;
+    --light-disabled-color: #6c757d;
+  
+    /* Set the 'dark' theme
+    --dark-primary-color: #000000;
+    --dark-disabled-color: #1fccb5; */
+}
+body{
+    font-family: 'Roboto';
+}
+
+.form-group{
+    margin-top:5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}

@@ -1,0 +1,21 @@
+.ant-select-tree-checkbox.ant-select-tree-checkbox-disabled {
+  display: none;
+}
+
+li.ant-select-tree-treenode-disabled > span:not(.ant-select-tree-switcher),
+li.ant-select-tree-treenode-disabled > .ant-select-tree-node-content-wrapper,
+li.ant-select-tree-treenode-disabled
+  > .ant-select-tree-node-content-wrapper
+  span {
+  cursor: default;
+}
+
+li.ant-select-tree-treenode-disabled.ant-select-tree-treenode-switcher-close {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1;
+  margin-top: 0;
+  padding-top: 4px;
+}

@@ -1,0 +1,14 @@
+
+.simple-container {
+    margin:10%;
+    font-size: 14px;
+    text-align: center;
+    text-decoration-line: none;
+}
+a{
+    text-decoration-line: none;
+    color: var(--selected-primary-color);
+}
+.container-wrapper{
+    margin: 8%;
+}

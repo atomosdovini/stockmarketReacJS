@@ -1,0 +1,10 @@
+.ant-btn.ant-btn-primary.ant-btn-lg.ant-input-search-button {
+  padding-top: 6.4px !important;
+  position: static
+}
+
+.ant-input-group-addon button {
+  display: flex;
+  align-items: center;
+  margin: 0
+}
