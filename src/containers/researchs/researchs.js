@@ -12,7 +12,7 @@
 //       active: true 
 //     });
 //     const [researchList, setResearchList] = useState([]);
-//     const baseURL = "https://consense-djangoapi.herokuapp.com/research/";
+//     const baseURL = "https://consense-djangoapi.herokuapp.com//research/";
 
 //     const deleteResearch = id =>{
 //       // delete research, depois apagar esta linha de baixo
